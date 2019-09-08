@@ -1,28 +1,11 @@
-Files or directories with no real owner or group
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-HTTP DELETE Method Enabled
-ICMP redirection enabled
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-ICMP timestamp response
-World writable files exist
 User umask value is unsafe
+ICMP timestamp response
 User home directory mode unsafe
 Partition Mounting Weakness
+World writable files exist
+ICMP redirection enabled
+HTTP OPTIONS Method Enabled
+Files or directories with no real owner or group
 No password for Grub
+HTTP DELETE Method Enabled
+Anonymous root login is allowed
