@@ -11,10 +11,9 @@ node {
 
 // ------------------------------- Set Variables ------------------------------------------------
   NEXPOSE_ENDPOINT = "18.222.122.198"
-  EXCEPTIONS_LIST_URL = "https://gist.github.com/abdelsfane/9dab45201be6f8e7a942a27ac48ffaf1"
+  EXCEPTIONS_LIST_URL = "http://raw.githubusercontent.com/abdelsfane/nexpose-runner/master/Exclusions.txt"
   ASSET_IP = "3.17.145.188"
   SITE_NAME = "Nexpose_Runner_${BUILD_NUMBER}"
-
 
 // ------------------------------- Use Jenkins Credential Store ------------------------------------------------
 
