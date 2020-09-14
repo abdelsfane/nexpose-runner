@@ -9,3 +9,4 @@ Files or directories with no real owner or group
 No password for Grub
 HTTP DELETE Method Enabled
 Anonymous root login is allowed
+TCP timestamp response
