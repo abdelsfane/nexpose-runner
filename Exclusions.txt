@@ -10,3 +10,20 @@ No password for Grub
 HTTP DELETE Method Enabled
 Anonymous root login is allowed
 TCP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+ICMP timestamp response
+TCP timestamp response
+TCP timestamp response
+TCP timestamp response
+TCP timestamp response
+TCP timestamp response
+TCP timestamp response
